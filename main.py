@@ -1,3 +1,4 @@
+#Code by bigboybigboi#0001 skid if ur homosexual (ew)
 import httpx, random, string
 import aiohttp
 from aiohttp.client import ClientSession
